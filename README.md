@@ -10,4 +10,6 @@ at the begining i and my classmate learn sth is new in our computer information 
 Content from cell 1 | Content from cell 
 2 Content in the first column | Content in the second column
 
- at the end I recommend for the begginars to use this way to creat their markdown without any problems.
+ at the end I recommend for the begginars to use this way to creat their markdown without any problems. 
+ 
+ written by bushra al ewirat
