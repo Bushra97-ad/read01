@@ -4,7 +4,7 @@ at the begining i and my classmate learn sth is new in our computer information 
  in this paragraph there are many examples about the tools that make a text more tidy e.g
  1. add a link in this way http://github.com - automatic!
 [GitHub](http://github.com)
- 2. to add a image in this way ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+ 2. to add a image in this way ![Image of -](https://octodex.github.com/images/yaktocat.png)  
  3. to add  a table in this way First Header | Second Header
 
 Content from cell 1 | Content from cell 2
