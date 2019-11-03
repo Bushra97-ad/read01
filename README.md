@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+at the begining i and my classmate learn sth is new in our computer information to leran a new way to creat a markdown page by github,in this way we can easlly creat a new page without any challenges.in this way the page what we want to creat it will be mor coordanite and organized.so it is easyer for beggingers.
 
-You can use the [editor on GitHub](https://github.com/Bushra97-ad/read01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ in this paragraph there are many examples about the tools that make a text more tidy e.g
+ 1. add a link in this way http://github.com - automatic!
+[GitHub](http://github.com)
+ 2. to add a image in this way ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+ 3. to add  a table in this way First Header | Second Header
 
-### Markdown
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bushra97-ad/read01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ at the end I recommend for the begginars to use this way to creat their markdown without any problems.
