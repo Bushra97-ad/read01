@@ -7,7 +7,7 @@ at the begining i and my classmate learn sth is new in our computer information 
  2. to add a image in this way ![Image of -]()  
  3. to add  a table in this way First Header | Second Header
 
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 
+2 Content in the first column | Content in the second column
 
  at the end I recommend for the begginars to use this way to creat their markdown without any problems.
